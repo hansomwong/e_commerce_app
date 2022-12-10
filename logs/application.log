@@ -22,3 +22,137 @@
 2022-12-08T17:01:02.430-0600 INFO Created user with username, hanhuang.
 2022-12-08T17:01:02.431-0600 INFO Found user with username, hanhuang.
 2022-12-08T17:01:02.433-0600 INFO Created user with username, hanhuang.
+2022-12-09T17:31:20.845-0600 INFO Starting SareetaApplicationTests on 2MQWLQ2LT with PID 20028 (started by HanHuang in C:\Users\hanhuang\Documents\JAVA\Course4_Project\ecommerce_App_HH_submission)
+2022-12-09T17:31:20.848-0600 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-12-09T17:31:20.849-0600 INFO No active profile set, falling back to default profiles: default
+2022-12-09T17:31:24.943-0600 INFO Started SareetaApplicationTests in 4.292 seconds (JVM running for 6.233)
+2022-12-09T17:31:25.327-0600 INFO Created user with username, hanhuang.
+2022-12-09T17:31:25.329-0600 INFO Created user with username, hanhuang.
+2022-12-09T17:31:25.329-0600 INFO Found user with username, hanhuang.
+2022-12-09T17:31:25.331-0600 INFO Created user with username, hanhuang.
+2022-12-09T21:47:49.000-0600 INFO Starting SareetaApplicationTests on 2MQWLQ2LT with PID 1732 (started by HanHuang in C:\Users\hanhuang\Documents\JAVA\Course4_Project\ecommerce_App_HH_submission)
+2022-12-09T21:47:49.005-0600 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-12-09T21:47:49.005-0600 INFO No active profile set, falling back to default profiles: default
+2022-12-09T21:47:52.723-0600 INFO Started SareetaApplicationTests in 3.898 seconds (JVM running for 5.582)
+2022-12-09T21:47:53.031-0600 INFO Created user with username, hanhuang.
+2022-12-09T21:47:53.033-0600 INFO Created user with username, hanhuang.
+2022-12-09T21:47:53.034-0600 INFO Found user with username, hanhuang.
+2022-12-09T21:47:53.035-0600 INFO Created user with username, hanhuang.
+2022-12-09T21:59:04.338-0600 INFO Starting SareetaApplicationTests on 2MQWLQ2LT with PID 32032 (started by HanHuang in C:\Users\hanhuang\Documents\JAVA\Course4_Project\ecommerce_App_HH_submission)
+2022-12-09T21:59:04.341-0600 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-12-09T21:59:04.342-0600 INFO No active profile set, falling back to default profiles: default
+2022-12-09T21:59:08.163-0600 INFO Started SareetaApplicationTests in 4.005 seconds (JVM running for 5.68)
+2022-12-09T21:59:08.516-0600 INFO Created user with username, hanhuang.
+2022-12-09T21:59:08.519-0600 INFO Created user with username, hanhuang.
+2022-12-09T21:59:08.519-0600 INFO Found user with username, hanhuang.
+2022-12-09T21:59:08.521-0600 INFO Created user with username, hanhuang.
+2022-12-09T22:16:40.893-0600 INFO Starting SareetaApplicationTests on 2MQWLQ2LT with PID 21224 (started by HanHuang in C:\Users\hanhuang\Documents\JAVA\Course4_Project\ecommerce_App_HH_submission)
+2022-12-09T22:16:40.899-0600 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-12-09T22:16:40.899-0600 INFO No active profile set, falling back to default profiles: default
+2022-12-09T22:16:44.455-0600 INFO Started SareetaApplicationTests in 3.735 seconds (JVM running for 5.337)
+2022-12-09T22:16:44.790-0600 INFO Created user with username, hanhuang.
+2022-12-09T22:16:44.792-0600 INFO Created user with username, hanhuang.
+2022-12-09T22:16:44.793-0600 INFO Found user with username, hanhuang.
+2022-12-09T22:16:44.795-0600 INFO Created user with username, hanhuang.
+2022-12-09T22:16:44.823-0600 INFO Created user order with username, hanhuang.
+2022-12-09T22:16:44.824-0600 INFO Found user order with username, hanhuang.
+2022-12-09T22:16:44.826-0600 INFO Created user order with username, hanhuang.
+2022-12-09T22:29:19.714-0600 INFO Starting SareetaApplicationTests on 2MQWLQ2LT with PID 30432 (started by HanHuang in C:\Users\hanhuang\Documents\JAVA\Course4_Project\ecommerce_App_HH_submission)
+2022-12-09T22:29:19.717-0600 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-12-09T22:29:19.718-0600 INFO No active profile set, falling back to default profiles: default
+2022-12-09T22:29:23.251-0600 INFO Started SareetaApplicationTests in 3.712 seconds (JVM running for 5.314)
+2022-12-09T22:29:23.580-0600 INFO Created user with username, hanhuang.
+2022-12-09T22:29:23.582-0600 INFO Created user with username, hanhuang.
+2022-12-09T22:29:23.582-0600 INFO Found user with username, hanhuang.
+2022-12-09T22:29:23.584-0600 INFO Created user with username, hanhuang.
+2022-12-09T22:29:23.611-0600 INFO Created user order with username, hanhuang.
+2022-12-09T22:29:23.612-0600 INFO Found user order with username, hanhuang.
+2022-12-09T22:29:23.614-0600 INFO Created user order with username, hanhuang.
+2022-12-09T22:34:13.444-0600 INFO Starting SareetaApplicationTests on 2MQWLQ2LT with PID 5428 (started by HanHuang in C:\Users\hanhuang\Documents\JAVA\Course4_Project\ecommerce_App_HH_submission)
+2022-12-09T22:34:13.447-0600 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-12-09T22:34:13.448-0600 INFO No active profile set, falling back to default profiles: default
+2022-12-09T22:34:17.014-0600 INFO Started SareetaApplicationTests in 3.74 seconds (JVM running for 5.337)
+2022-12-09T22:34:17.352-0600 INFO Created user with username, hanhuang.
+2022-12-09T22:34:17.354-0600 INFO Created user with username, hanhuang.
+2022-12-09T22:34:17.355-0600 INFO Found user with username, hanhuang.
+2022-12-09T22:34:17.357-0600 INFO Created user with username, hanhuang.
+2022-12-09T22:34:17.382-0600 INFO Created user order with username, hanhuang.
+2022-12-09T22:34:17.383-0600 INFO Found user order with username, hanhuang.
+2022-12-09T22:34:17.385-0600 INFO Created user order with username, hanhuang.
+2022-12-09T22:36:19.737-0600 INFO Starting SareetaApplicationTests on 2MQWLQ2LT with PID 12772 (started by HanHuang in C:\Users\hanhuang\Documents\JAVA\Course4_Project\ecommerce_App_HH_submission)
+2022-12-09T22:36:19.740-0600 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-12-09T22:36:19.741-0600 INFO No active profile set, falling back to default profiles: default
+2022-12-09T22:36:23.788-0600 INFO Started SareetaApplicationTests in 4.223 seconds (JVM running for 5.812)
+2022-12-09T22:36:24.180-0600 INFO Created user with username, hanhuang.
+2022-12-09T22:36:24.182-0600 INFO Created user with username, hanhuang.
+2022-12-09T22:36:24.182-0600 INFO Found user with username, hanhuang.
+2022-12-09T22:36:24.184-0600 INFO Created user with username, hanhuang.
+2022-12-09T22:36:24.216-0600 INFO Created user order with username, hanhuang.
+2022-12-09T22:36:24.216-0600 INFO Found user order with username, hanhuang.
+2022-12-09T22:36:24.218-0600 INFO Created user order with username, hanhuang.
+2022-12-10T00:05:00.318-0600 INFO Starting SareetaApplicationTests on 2MQWLQ2LT with PID 19932 (started by HanHuang in C:\Users\hanhuang\Documents\JAVA\Course4_Project\ecommerce_App_HH_submission)
+2022-12-10T00:05:00.321-0600 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-12-10T00:05:00.322-0600 INFO No active profile set, falling back to default profiles: default
+2022-12-10T00:05:03.953-0600 INFO Started SareetaApplicationTests in 3.797 seconds (JVM running for 5.43)
+2022-12-10T00:05:04.283-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:05:04.285-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:05:04.286-0600 INFO Found user with username, hanhuang.
+2022-12-10T00:05:04.288-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:05:04.326-0600 INFO Created user order with username, hanhuang.
+2022-12-10T00:05:04.327-0600 INFO Found user order with username, hanhuang.
+2022-12-10T00:05:04.329-0600 INFO Created user order with username, hanhuang.
+2022-12-10T00:07:01.336-0600 INFO Starting SareetaApplicationTests on 2MQWLQ2LT with PID 12792 (started by HanHuang in C:\Users\hanhuang\Documents\JAVA\Course4_Project\ecommerce_App_HH_submission)
+2022-12-10T00:07:01.338-0600 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-12-10T00:07:01.339-0600 INFO No active profile set, falling back to default profiles: default
+2022-12-10T00:07:04.883-0600 INFO Started SareetaApplicationTests in 3.714 seconds (JVM running for 5.353)
+2022-12-10T00:07:05.313-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:07:05.316-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:07:05.317-0600 INFO Found user with username, hanhuang.
+2022-12-10T00:07:05.320-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:07:05.349-0600 INFO Created user order with username, hanhuang.
+2022-12-10T00:07:05.350-0600 INFO Found user order with username, hanhuang.
+2022-12-10T00:07:05.352-0600 INFO Created user order with username, hanhuang.
+2022-12-10T00:30:56.553-0600 INFO Starting SareetaApplicationTests on 2MQWLQ2LT with PID 35664 (started by HanHuang in C:\Users\hanhuang\Documents\JAVA\Course4_Project\ecommerce_App_HH_submission)
+2022-12-10T00:30:56.556-0600 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-12-10T00:30:56.557-0600 INFO No active profile set, falling back to default profiles: default
+2022-12-10T00:31:00.161-0600 INFO Started SareetaApplicationTests in 3.772 seconds (JVM running for 5.396)
+2022-12-10T00:31:00.488-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:31:00.490-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:31:00.490-0600 INFO Found user with username, hanhuang.
+2022-12-10T00:31:00.491-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:31:00.518-0600 INFO Created user order with username, hanhuang.
+2022-12-10T00:31:00.518-0600 INFO Found user order with username, hanhuang.
+2022-12-10T00:31:00.521-0600 INFO Created user order with username, hanhuang.
+2022-12-10T00:32:03.656-0600 INFO Starting SareetaApplicationTests on 2MQWLQ2LT with PID 36364 (started by HanHuang in C:\Users\hanhuang\Documents\JAVA\Course4_Project\ecommerce_App_HH_submission)
+2022-12-10T00:32:03.660-0600 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-12-10T00:32:03.661-0600 INFO No active profile set, falling back to default profiles: default
+2022-12-10T00:32:07.270-0600 INFO Started SareetaApplicationTests in 3.775 seconds (JVM running for 5.339)
+2022-12-10T00:32:07.578-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:32:07.579-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:32:07.580-0600 INFO Found user with username, hanhuang.
+2022-12-10T00:32:07.582-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:32:07.610-0600 INFO Created user order with username, hanhuang.
+2022-12-10T00:32:07.611-0600 INFO Found user order with username, hanhuang.
+2022-12-10T00:32:07.613-0600 INFO Created user order with username, hanhuang.
+2022-12-10T00:33:12.100-0600 INFO Starting SareetaApplicationTests on 2MQWLQ2LT with PID 24872 (started by HanHuang in C:\Users\hanhuang\Documents\JAVA\Course4_Project\ecommerce_App_HH_submission)
+2022-12-10T00:33:12.104-0600 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-12-10T00:33:12.104-0600 INFO No active profile set, falling back to default profiles: default
+2022-12-10T00:33:15.829-0600 INFO Started SareetaApplicationTests in 3.891 seconds (JVM running for 5.447)
+2022-12-10T00:33:16.192-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:33:16.195-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:33:16.195-0600 INFO Found user with username, hanhuang.
+2022-12-10T00:33:16.197-0600 INFO Created user with username, hanhuang.
+2022-12-10T00:33:16.224-0600 INFO Created user order with username, hanhuang.
+2022-12-10T00:33:16.224-0600 INFO Found user order with username, hanhuang.
+2022-12-10T00:33:16.226-0600 INFO Created user order with username, hanhuang.
+2022-12-10T13:36:58.941-0600 INFO Starting SareetaApplicationTests on 2MQWLQ2LT with PID 35264 (started by HanHuang in C:\Users\hanhuang\Documents\JAVA\Course4_Project\ecommerce_App_HH_submission)
+2022-12-10T13:36:58.944-0600 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2022-12-10T13:36:58.945-0600 INFO No active profile set, falling back to default profiles: default
+2022-12-10T13:37:03.607-0600 INFO Started SareetaApplicationTests in 4.923 seconds (JVM running for 7.274)
+2022-12-10T13:37:03.991-0600 INFO Created user with username, hanhuang.
+2022-12-10T13:37:03.993-0600 INFO Created user with username, hanhuang.
+2022-12-10T13:37:03.993-0600 INFO Found user with username, hanhuang.
+2022-12-10T13:37:03.995-0600 INFO Created user with username, hanhuang.
+2022-12-10T13:37:04.026-0600 INFO Created user order with username, hanhuang.
+2022-12-10T13:37:04.027-0600 INFO Found user order with username, hanhuang.
+2022-12-10T13:37:04.028-0600 INFO Created user order with username, hanhuang.

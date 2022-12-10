@@ -24,7 +24,7 @@
 
     <Loggers>
 
-        <Logger name="com.example.demo" additivity="false" level="debug">
+        <Logger name="com.example.demo" additivity="true" level="debug">
             <AppenderRef ref="applicationLog" />
             <AppenderRef ref="console"  />
         </Logger>
